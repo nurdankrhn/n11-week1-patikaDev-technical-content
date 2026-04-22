@@ -22,5 +22,5 @@ ekrana yazdırır.
 
 ## Çalıştırma
 ```bash
-javac src/Main.java
-java -cp src Main
+javac Main.java
+java Main
